@@ -313,7 +313,7 @@ function (_SWebComponent) {
      * @protected
      */
     value: function defaultCss(componentName, componentNameDash) {
-      return "\n      ".concat(componentNameDash, " {\n        display : inline-block;\n      }\n    ");
+      return "\n      ".concat(componentNameDash, " {\n        display : block;\n      }\n    ");
     }
   }, {
     key: "defaultProps",

@@ -164,7 +164,7 @@ export default class SParallaxComponent extends SWebComponent {
   static defaultCss(componentName, componentNameDash) {
     return `
       ${componentNameDash} {
-        display : inline-block;
+        display : block;
       }
     `
   }

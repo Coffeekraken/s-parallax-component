@@ -1,6 +1,6 @@
 {
   "name": "coffeekraken-s-parallax-component",
-  "version": "1.0.0-beta",
+  "version": "1.0.0-beta.2",
   "description": "Provide a nice and declarative way to create parallax effect depending on the scroll and/or the mouse",
   "main": "dist/index.js",
   "homepage": "https://coffeekraken.io",
